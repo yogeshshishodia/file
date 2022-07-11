@@ -1,0 +1,31 @@
+
+header {
+    background-color: gold;
+}
+
+#logo img {
+    width: 180px;
+    height: auto;
+}
+
+header .container{
+    width: 1365px;
+    /* margin: 0px; */
+     padding: 20px 20px; 
+
+}
+
+#headernav{
+    display:flex;
+    justify-content:space-between;
+}
+#menu li{
+    display:inline;
+}
+#menu li a:link{
+    color: brown;
+    padding:10px 20px;
+}
+#menu li a:hover{
+    color: aliceblue;
+}

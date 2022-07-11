@@ -1,0 +1,60 @@
+
+/* @media screen and (min-width:480px){ */
+    /* body{
+        background-color: aqua;
+    } */
+    @media screen and (min-width:500px){
+        body{
+           background-color: red;
+       } 
+   
+   #product{
+       width:100%;
+       display:flex;
+       flex-wrap:wrap;
+   }
+   #products .product{
+       width: 100%;
+       background-color: aqua;
+   }
+   }
+@media screen and (min-width:500px) and (max-width:800px){
+     body{
+        background-color: yellow;
+    } 
+
+#product{
+    width:100%;
+    display:flex;
+    flex-wrap:wrap;
+}
+#products .product{
+    width: 50%;
+    background-color: aqua;
+}
+}
+@media screen and (min-width:800px) and (max-width:1000px){
+    body{
+       background-color: red;
+   } 
+
+#product{
+   width:100%;
+   display:flex;
+   flex-wrap:wrap;
+}
+#products .product{
+   width: 25%;
+   background-color: aqua;
+}
+}
+
+
+
+  /* @media screen and (max-width:700px){
+    body{
+        background-color: brown;
+    } 
+} */
+ 
+

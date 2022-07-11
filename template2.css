@@ -1,0 +1,165 @@
+
+*{
+    margin:0px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    background-color:black;
+
+}
+.container{
+    width:1365px;
+    margin:0px auto;
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+
+
+#navbar{
+    padding:15px 0px;
+    
+}
+#navbar ul li{
+    display: inline;
+    padding: 20px 10px;
+    
+}
+.inp{
+    padding:15px 10px;
+}
+main{
+    background-color: greenyellow;
+}
+.mains{
+    width: 1365px;
+    margin:0px auto;
+    color: white;
+    height:180px
+
+}
+.dram{
+    padding: 10px 45px;
+    font-size: 30px;
+}
+.par{
+   /* padding-top: 7px; */
+   padding-left: 42px;
+}
+.but{
+    padding: 0px 45px;
+}
+footer{
+    background-color:white;
+}
+.foot{
+    width:1365px;
+    height:120px;
+    margin:0px auto; 
+    display: flex;
+    
+}
+.sup{
+    font-size: 45px;
+   
+    padding-left: 45px;
+    padding-top: 20px;
+}
+.vis{
+    padding-left: 10px;
+    padding-top: 38px;
+}
+.foot img{
+    height:8px;
+    width:8px;
+}
+.cont{
+    width:1365px;
+    height: 340px;
+    margin:0px auto;
+    display: flex;
+}
+.im{
+    padding:0px 20px;
+}
+.imn{
+    padding: 0px 40px;
+}
+.img{
+    padding: 0px 30px;
+}
+
+.d{
+    background-color: yellow;
+    width:1700px;
+    height:300px;
+    margin: 0px auto;
+  
+    display: flex;
+}
+.dyn{
+     padding:0px 0px 0px 193px;
+     padding-top: 15px; 
+}
+.dym{
+    padding: 0px 0px 0px 70px;
+    padding-top: 20px;
+
+    
+}
+#dm{
+    padding-left: 15px;
+}
+#sda{
+    padding-top: 22px;
+    padding-left: 22px;
+}
+#sdp{
+    padding-left: 30px;
+    padding-top: 20px;
+
+}
+
+#as{
+    padding-left: 30px;
+    padding-top: 20px;
+    
+}
+.gh{
+    display: flex;
+}
+#mn{
+    padding-left: 20px;
+}
+#kl{
+    padding-left: 20px;
+}
+#sd{
+    padding-left: 25px;
+}
+.dyg{
+    padding: 0px 0px 0px 70px;
+    padding-top: 25px;
+
+}
+.imkl{
+    display: flex;
+}
+.sr{
+    display: flex;
+}
+.sr img{
+    padding:5px 0px 0px 0px;
+}
+.dyg img{
+    padding:5px 0px 0px 0px;
+}
+.gh img{
+    padding:5px 0px 0px 0px;
+}
+.dram{
+    font-size: 45px;
+    
+}

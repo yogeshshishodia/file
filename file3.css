@@ -1,0 +1,52 @@
+ #child {
+    position: fixed;
+    height: 250px;
+    width: 250px;
+    left: 0px;
+    top: 0px;
+    background-color: blueviolet;
+    -webkit-transform: scale(1) rotate(0deg) translate(0px, 0px) skew(0deg, 0deg);
+    transform: scale(1) rotate(0deg) translate(0px, 0px) skew(0deg, 0deg);
+}
+#child img{
+    width:250px;
+    height:250px;
+}
+main #child{
+    border:150px; color: aqua;
+} 
+
+/* header{
+    background-color: aqua;
+}
+header .cont{
+    max-width:1365;
+    padding: 5px;
+    margin: 0px auto;
+}
+.cont img{
+    width:180px;
+    height:auto;
+}
+.com{
+    float:right;
+}
+.com li{
+    
+    display:inline;
+    display: flex;
+     padding:20px; 
+}
+.com li a{
+    color:bisque;
+}
+
+
+.com::after{
+    content:'';
+    display: block;
+    clear:both;
+}
+.com li a:hover{
+    color:aliceblue;
+} */
